@@ -13,5 +13,5 @@ def join_nested_strings(src)
     end 
   row_index += 1 
   end 
-  new_src.join 
+  new_src.join(" ")
 end
